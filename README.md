@@ -1,3 +1,7 @@
+This is a Simple Project which explains how Routers are used in React and how to connect different pages with simplicity.
+
+You can view the demo on [React Router](https://vending-machine-applications.netlify.app/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
